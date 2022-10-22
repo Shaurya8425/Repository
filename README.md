@@ -5,3 +5,5 @@ Down below is a link of a coding challenge from frontendmentor.io which I comple
 https://shaurya8425.github.io/product-preview-card-component-main/
 ## Header
 Hey, what's up?
+Why you should keep learning new skills?
+Because It help you; think better, improve your understanding, open new opportunities for your professional carrer.
