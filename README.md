@@ -7,3 +7,5 @@ https://shaurya8425.github.io/product-preview-card-component-main/
 Hey, what's up?
 Why you should keep learning new skills?
 Because It help you; think better, improve your understanding, open new opportunities for your professional carrer.
+# 10/25/2022
+It Tuesday today. Yesterday, we celebrated a very big hindu festival called Diwali & It was an amazing experience.
